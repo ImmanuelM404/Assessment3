@@ -1,0 +1,11 @@
+// Explain how web works
+
+The web works through a system a of request to a server. 
+The server(computer) recieves instructions from the web and returns response to browser. 
+As web users we send our request through url addresses and the computer and web work together to find the data we are searching in our url.
+Our url addresses are broken into four parts to assist the web browser and web server to read our searches on the web.
+
+When we click on links on the web, domain names (hostnames) are converted into IP Address that the server can read. 
+Request are made on the web server and require a response for returned results.
+If request and response are completed we are allowed to retrieve data from the hostname. 
+ 
